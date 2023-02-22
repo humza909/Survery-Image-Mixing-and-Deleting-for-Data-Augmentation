@@ -30,8 +30,9 @@ If you find this paper useful in your research, please cite the paper:
 ```
 @article{naveed2021survey,
   title={Survey: Image mixing and deleting for data augmentation},
-  author={Naveed, Humza},
+  author={Naveed, Humza and Anwar, Saeed and Hayat, Munawar and Javed, Kashif and Mian, Ajmal}, 
   journal={arXiv preprint arXiv:2106.07085},
+  url = {https://arxiv.org/abs/2106.07085},
   year={2021}
 }
 ```
