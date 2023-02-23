@@ -32,8 +32,19 @@ recommend possible future research directions for image mixing and deleting data
 * Hide-and-seek: Forcing a network to be meticulous for weakly-supervised object and action localization, ICCV, 2017. [[Paper](https://arxiv.org/abs/1704.04232)] [[Code](https://github.com/kkanshul/Hide-and-Seek)]
 * Random erasing data augmentation, AAAI, 2020. [[Paper](https://arxiv.org/abs/1708.04896)] [[Code](https://github.com/zhunzhong07/Random-Erasing)]
 * Gridmask data augmentation, arXiv, 2020. [[Paper](https://arxiv.org/abs/2001.04086)] [[Code](https://github.com/dvlab-research/GridMask)]
-## Cut and Mix
 
+## Cut and Mix
+* Ricap: Random image cropping and patching data augmentation for deep cnns, ACML, 2018. [[Paper](https://arxiv.org/abs/1811.09030)] [[Code](https://github.com/4uiiurz1/pytorch-ricap)]
+* Improved mixed example data augmentation, WACV, 2019. [[Paper](https://arxiv.org/abs/1805.11272)] [[Code](https://github.com/ceciliaresearch/MixedExample)]
+* Cutmix: Regularization strategy to train strong classifiers with localizable features, ICCV, 2019. [[Paper](https://arxiv.org/abs/1905.04899)] [[Code](https://github.com/clovaai/CutMix-PyTorch)]
+* Resizemix: Mixing data with preserved object information and true labels, arXiv, 2020. [[Paper](https://arxiv.org/abs/2012.11101)]
+* Attentive cutmix: An enhanced data augmentation approach for deep learning based image classification, ICASSP, 2020. [[Paper](https://arxiv.org/abs/2003.13048)]
+* Saliencymix: A saliency guided data augmentation strategy for better regularization, ICLR, 2021. [[Paper](https://arxiv.org/abs/2006.01791)] [[Code](https://github.com/afm-shahab-uddin/SaliencyMix)]
+* Keepaugment: A simple information-preserving data augmentation approach, CVPR, 2021. [[Paper]()] [[Code]()]
+* Milking cowmask for semi-supervised image classification, VISIGRAPP, 2022. [[Paper](https://arxiv.org/abs/2003.12022)] [[Code](https://github.com/google-research/google-research/tree/master/milking_cowmask)]
+* Recursivemix: Mixed learning with history, NeurIPS, 2022. [[Paper](https://arxiv.org/abs/2203.06844)] [[Code](https://github.com/implus/RecursiveMix-pytorch)]
+* Lumix: Improving mixup by better modelling label uncertainty, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.15846)]
+* Saliency grafting: Innocuous attribution-guided mixup with calibrated label mixing, AAAI, 2022. [[Paper](https://arxiv.org/abs/2112.08796)]
 ## Mix and Up
 
 ## Applications
