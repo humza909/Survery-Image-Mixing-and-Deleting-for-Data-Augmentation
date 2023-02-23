@@ -46,7 +46,16 @@ recommend possible future research directions for image mixing and deleting data
 * Lumix: Improving mixup by better modelling label uncertainty, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.15846)]
 * Saliency grafting: Innocuous attribution-guided mixup with calibrated label mixing, AAAI, 2022. [[Paper](https://arxiv.org/abs/2112.08796)]
 ## Mix and Up
-
+* mixup: Beyond empirical risk minimizatio, ICLR, 2018. [[Paper]()] [[Code]()]
+* Manifold mixup: Better representations by interpolating hidden states, ICML, 2019. [[Paper]()] [[Code]()]
+* Noisy feature mixup, ICLR, 2022. [[Paper]()] [[Code]()]
+* Augmix: A simple data processing method to improve robustness and uncertainty, ICLR, 2020. [[Paper]()] [[Code]()]
+* Smoothmix: A simple yet effective data augmentation to train robust classifiers, CVPRW, 2020. [[Paper]()] [[Code]()]  
+* Co-mixup: Saliency guided joint mixup with supermodular diversity, ICLR, 2021. [[Paper]()] [[Code]()]
+* Puzzle mix: Exploiting saliency and local statistics for optimal mixup, ICML, 2020. [[Paper]()] [[Code]()]
+* Data augmentation by pairing samples for images classification, arXiv, 2018. [[Paper]()] [[Code]()]
+* Supermix: Supervising the mixing data augmentation, CVPR, 2021. [[Paper]()] [[Code]()]
+* Automix: Unveiling the power of mixup for stronger classifier, ECCV, 2022. [[Paper]()] [[Code]()]
 ## Applications
 # Citation
 If you find this paper useful in your research, please cite the paper:
