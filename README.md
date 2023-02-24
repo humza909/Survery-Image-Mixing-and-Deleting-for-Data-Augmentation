@@ -4,12 +4,25 @@ This repo is for our paper: https://arxiv.org/abs/2106.07085
 
 [Humza Naveed](https://scholar.google.com.pk/citations?user=k5dpooQAAAAJ&hl=en), [Saeed Anwar](https://scholar.google.com.au/citations?user=vPJIHywAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com.au/citations?user=Mx8MbWYAAAAJ&hl=en), [Kashif Javed](https://scholar.google.com.pk/citations?user=yFxpLBwAAAAJ&hl=en), [Ajmal Mian](https://scholar.google.com/citations?user=X589yaIAAAAJ&hl=en)
 
+We intend to regularly update this repo with new papers. If you see any paper missing here, please create an issue or PR. 
+
 ## Contents
 - [Abstract](#abstract)
 - [Cut and Delete](#cut-and-delete)
 - [Cut and Mix](#cut-and-mix)
 - [Mix and Up](#mix-and-up)
 - [Applications](#applications)
+  - [Fine Grained Image Recognition](#fine-grained-image-recognition)
+  - [Object Detection](#object-detection)
+  - [Transformers](#transformers)
+  - [Self-Supervised Learning](#self-supervised-learning)
+  - [Semi-Supervised Learning](#semi-supervised-learning)
+  - [Unsupervised Learning](#unsupervised-learning)
+  - [Adversarial Training](#adversarial-training)
+  - [Privacy Preserving](#privacy-preserving)
+  - [Point Clouds](#point-clouds)
+  - [Text Classification](#text-classification)
+  - [Audio Classification](#audio-classification)
 ## Abstract
 Neural networks are prone to overfitting and memorizing data patterns. To avoid over-fitting, and enhance
 their generalization and performance, various methods have been suggested in the literature, including
@@ -46,17 +59,32 @@ recommend possible future research directions for image mixing and deleting data
 * Lumix: Improving mixup by better modelling label uncertainty, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.15846)]
 * Saliency grafting: Innocuous attribution-guided mixup with calibrated label mixing, AAAI, 2022. [[Paper](https://arxiv.org/abs/2112.08796)]
 ## Mix and Up
+* Data augmentation by pairing samples for images classification, arXiv, 2018. [[Paper]()] [[Code]()]
 * mixup: Beyond empirical risk minimizatio, ICLR, 2018. [[Paper]()] [[Code]()]
 * Manifold mixup: Better representations by interpolating hidden states, ICML, 2019. [[Paper]()] [[Code]()]
-* Noisy feature mixup, ICLR, 2022. [[Paper]()] [[Code]()]
+* Remix: Rebalanced mixup, ECCV, 2020. [[Paper]()] [[Code]()]
 * Augmix: A simple data processing method to improve robustness and uncertainty, ICLR, 2020. [[Paper]()] [[Code]()]
 * Smoothmix: A simple yet effective data augmentation to train robust classifiers, CVPRW, 2020. [[Paper]()] [[Code]()]  
-* Co-mixup: Saliency guided joint mixup with supermodular diversity, ICLR, 2021. [[Paper]()] [[Code]()]
 * Puzzle mix: Exploiting saliency and local statistics for optimal mixup, ICML, 2020. [[Paper]()] [[Code]()]
-* Data augmentation by pairing samples for images classification, arXiv, 2018. [[Paper]()] [[Code]()]
+* Co-mixup: Saliency guided joint mixup with supermodular diversity, ICLR, 2021. [[Paper]()] [[Code]()]
 * Supermix: Supervising the mixing data augmentation, CVPR, 2021. [[Paper]()] [[Code]()]
+* Stylemix: Separating content and style for enhanced data augmentation, CVPR, 2021. [[Paper]()] [[Code]()]
 * Automix: Unveiling the power of mixup for stronger classifier, ECCV, 2022. [[Paper]()] [[Code]()]
+* Noisy feature mixup, ICLR, 2022. [[Paper]()] [[Code]()]
+* Pixmix: Dreamlike pictures comprehensively improve safety measures, CVPR, 2022. [[Paper]()] [[Code]()]
+* Alignmixup: Improving representations by interpolating aligned features, CVPR, 2022. [[Paper]()] [[Code]()]
 ## Applications
+### Fine Grained Image Recognition
+### Object Detection
+### Transformers
+### Self-Supervised Learning
+### Semi-Supervised Learning
+### Unsupervised Learning
+### Adversarial Training
+### Privacy Preserving
+### Point Clouds
+### Text Classification
+### Audio Classification
 # Citation
 If you find this paper useful in your research, please cite the paper:
 
