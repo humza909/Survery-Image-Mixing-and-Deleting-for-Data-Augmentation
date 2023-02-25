@@ -75,10 +75,27 @@ recommend possible future research directions for image mixing and deleting data
 * Alignmixup: Improving representations by interpolating aligned features, CVPR, 2022. [[Paper]()] [[Code]()]
 ## Applications
 ### Fine Grained Image Recognition
+* Attribute mix: semantic data augmentation for fine grained recognition, VCIP, 2020. [[Paper]()] [[Code]()]
+* Intra-class part swapping for fine-grained image classification, WACV, 2021. [[Paper]()] [[Code]()]
+* Snapmix: Semantically proportional mixing for augmenting fine-grained data, AAAI, 2021. [[Paper]()] [[Code]()]
 ### Object Detection
+* A-fast-rcnn: Hard positive generation via adversary for object detection, CVPR, 2017. [[Paper]()] [[Code]()]
+* Cut, paste and learn: Surprisingly easy synthesis for instance detection, ICCV, 2017. [[Paper]()] [[Code]()]
+* Modeling visual context is key to augmenting object detection datasets, ECCV, 2018. [[Paper]()] [[Code]()]
 ### Transformers
+* Transmix: Attend to mix for vision transformers, CVPR, 2022. [[Paper]()] [[Code]()]
+* Tokenmix: Rethinking image mixing for data augmentation in vision transformers, ECCV, 2022. [[Paper]()] [[Code]()]
+* Tokenmixup: Efficient attention-guided token-level data augmentation for transformers, NeurIPS, 2022. [[Paper]()] [[Code]()]
 ### Self-Supervised Learning
+* Improving contrastive learning by visualizing feature transformation, ICCV, 2021. [[Paper]()] [[Code]()]
+* i-mix: A domain-agnostic strategy for contrastive representation learning, ICLR, 2021. [[Paper]()] [[Code]()]
+* A simple data mixing prior for improving self-supervised learning, CVPR, 2022. [[Paper]()] [[Code]()]
 ### Semi-Supervised Learning
+* Mixmatch: A holistic approach to semi-supervised learning, NeurIPS, 2019. [[Paper]()] [[Code]()] 
+* Remixmatch: Semi-supervised learning with distribution matching andaugmentation anchoring, ICLR, 2020. [[Paper]()] [[Code]()]
+* Dividemix: Learning with noisy labels as semi-supervised learning, ICLR, 2020. [[Paper]()] [[Code]()]
+* Focalmix: Semi-supervised learning for 3d medical image detection, CVPR, 2020. [[Paper]()] [[Code]()]
+* Fix-match: Simplifying semi-supervised learning with consistency and confidence, NeurIPS, 2020. [[Paper]()] [[Code]()]
 ### Unsupervised Learning
 ### Adversarial Training
 ### Privacy Preserving
