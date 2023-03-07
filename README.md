@@ -1,6 +1,6 @@
-# Survery: Image Mixing and Deleting for Data Augmentation
+# Survey: Image Mixing and Deleting for Data Augmentation
 
-This repo is for our paper: https://arxiv.org/abs/2106.07085 
+This repo supplements our paper: https://arxiv.org/abs/2106.07085 
 
 [Humza Naveed](https://scholar.google.com.pk/citations?user=k5dpooQAAAAJ&hl=en), [Saeed Anwar](https://scholar.google.com.au/citations?user=vPJIHywAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com.au/citations?user=Mx8MbWYAAAAJ&hl=en), [Kashif Javed](https://scholar.google.com.pk/citations?user=yFxpLBwAAAAJ&hl=en), [Ajmal Mian](https://scholar.google.com/citations?user=X589yaIAAAAJ&hl=en)
 
