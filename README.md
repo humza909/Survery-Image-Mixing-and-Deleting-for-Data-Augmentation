@@ -82,6 +82,8 @@ recommend possible future research directions for image mixing and deleting data
 * A-fast-rcnn: Hard positive generation via adversary for object detection, CVPR, 2017. [[Paper](https://arxiv.org/abs/1704.03414)] [[Code](https://github.com/xiaolonw/adversarial-frcnn)]
 * Cut, paste and learn: Surprisingly easy synthesis for instance detection, ICCV, 2017. [[Paper](https://arxiv.org/abs/1708.01642)] [[Code](https://github.com/debidatta/syndata-generation)]
 * Modeling visual context is key to augmenting object detection datasets, ECCV, 2018. [[Paper](https://arxiv.org/abs/1807.07428)] [[Code](https://github.com/dvornikita/context_aug)]
+* Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Instant-Teaching_An_End-to-End_Semi-Supervised_Object_Detection_Framework_CVPR_2021_paper.html
+)] 
 ### Transformers
 * Transmix: Attend to mix for vision transformers, CVPR, 2022. [[Paper](https://arxiv.org/abs/2111.09833)] [[Code](https://github.com/Beckschen/TransMix)]
 * Tokenmix: Rethinking image mixing for data augmentation in vision transformers, ECCV, 2022. [[Paper](https://arxiv.org/abs/2207.08409)] [[Code](https://github.com/Sense-X/TokenMix)]
@@ -97,9 +99,24 @@ recommend possible future research directions for image mixing and deleting data
 * Focalmix: Semi-supervised learning for 3d medical image detection, CVPR, 2020. [[Paper](https://arxiv.org/abs/2003.09108)]
 * Fix-match: Simplifying semi-supervised learning with consistency and confidence, NeurIPS, 2020. [[Paper](https://arxiv.org/abs/2001.07685)] [[Code](https://github.com/google-research/fixmatch)]
 ### Unsupervised Learning
+* Virtual mixup training for unsupervised domain adaptation, arXiv, 2019.
+* Improve unsupervised domain adaptation with mixup training, arXiv, 2020.
+* Fixbi:Bridging domain spaces for unsupervised domain adaptation, CVPR, 2021.
+* Center-wise local image mixture for contrastive representation learning, BMVC, 2021. 
+* Un-mix: Rethinking image mixtures for unsupervised visual representation learning, AAAI, 2022.
 ### Adversarial Training
+* Inter-polated adversarial training: Achieving robust neural networks without sacrificing too much accuracy, AISec@CCS, 2019.
+* Adversarial vertex mixup: Toward better adversarially robust generalization, CVPR, 2020.
+* Strong data augmentation sanitizes poisoning and backdoor attacks without an accuracy tradeoff, ICASSP, 2021.
+* Dp-instahide: Provably defusing poisoning and backdoor attacks with differentially private data augmentations, arXiv, 2021.
 ### Privacy Preserving
+* Instahide: Instance-hiding schemes for private distributed learning, ICML, 2020.
+* Datamix: Efficient privacy-preserving edge-cloud inference, ECCV, 2020.
+* Xor mixup: Privacy-preserving data augmentation for one-shot federated learning, arXiv, 2020.
 ### Point Clouds
+* Pointmixup: Augmentation for point clouds, ECCV, 2020.
+* Regularization strategy for point cloud via rigidly mixed sample, CVPR, 2021.
+* Pointcutmix: Regularization strategy for point cloud classification, Neurocomputing, 2022.
 ### Text Classification
 ### Audio Classification
 # Citation
